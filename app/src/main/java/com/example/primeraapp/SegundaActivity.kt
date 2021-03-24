@@ -17,6 +17,7 @@ class SegundaActivity : AppCompatActivity() {
         setContentView(R.layout.activity_segunda)
 
         //Incializacoin de los variables
+        //explicacion git
         btnIncrementar = findViewById(R.id.btnIncrementar)
         btnDecrementar = findViewById(R.id.btnDecrementar)
         tvContador = findViewById(R.id.tvNumero)
