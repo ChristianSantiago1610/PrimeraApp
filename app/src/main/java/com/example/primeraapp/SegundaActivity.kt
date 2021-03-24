@@ -38,7 +38,7 @@ class SegundaActivity : AppCompatActivity() {
             tvContador.text = "$contador"
             Log.d("contador","$contador")
         }
-        btnBack.setOnClickerListener
+
 
 
     }
