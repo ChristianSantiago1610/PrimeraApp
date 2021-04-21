@@ -9,7 +9,7 @@
 
     <Button
         android:id="@+id/primer_boton"
-        android:layout_width="wrap_content"
+        android:layout_width="384dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="12dp"
@@ -19,11 +19,11 @@
 
     <Button
         android:id="@+id/segundo_boton"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="16dp"
         android:layout_weight="1"
         android:text="@string/etiqueta_boton_dos" />
 </LinearLayout>
